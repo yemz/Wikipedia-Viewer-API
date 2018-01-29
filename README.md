@@ -2,6 +2,8 @@
 
 Intermediate Front End Development Project
 ----------------------------------------------------------------------------------------------------------------------------------
+Tools: HTML5, JQuery, CSS3, Bootstrap, AJAX, API
+
 User Stories:
 
    1. As a user I can search Wikipedia entries in a search box and see the resulting Wikipedia entries.
