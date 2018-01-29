@@ -1,4 +1,4 @@
-# Wikipedia-Viewer-API -FreeCodeCamp Challenge
+# Wikipedia Viewer API - FreeCodeCamp Challenge
 
 Intermediate Front End Development Project
 ----------------------------------------------------------------------------------------------------------------------------------
