@@ -9,4 +9,4 @@ User Stories:
    1. As a user I can search Wikipedia entries in a search box and see the resulting Wikipedia entries.
    2. As a user I can click a button to see a random Wikipedia entry.
 -----------------------------------------------------------------------------------------------------------------------------------
-Live App: https://s.codepen.io/yesseniamelendez/debug/VMJEaQ/yoMZEQmKNQZk
+Live App: https://codepen.io/yesseniamelendez/pen/VMJEaQ
